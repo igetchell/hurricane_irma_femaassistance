@@ -1,0 +1,5 @@
+,disasterNumber,damagedCity,damagedZipCode,householdComposition,grossIncome,ownRent,residenceType,rentalAssistanceEligible,repairAssistanceEligible,id
+33142,4337,MIAMI,33125,3,20500.0,Owner,House/Duplex,False,False,625eee60eae35088c67f68f6
+33147,4337,MIAMI,33186,1,15000.0,Renter,Apartment,False,False,625eee60eae35088c67f695e
+33125,4337,MIAMI,33125,1,35000.0,Renter,Apartment,False,False,625eee60eae35088c67f62ba
+33135,4337,MIAMI,33161,4,20000.0,Owner,House/Duplex,False,False,625eee60eae35088c67f636f
