@@ -136,12 +136,15 @@ Finally, I generated three heat maps: by FEMA applicant volume, by median
 income, and by population count. The maps are displayed below. 
 
 Heat Map by Applicant Count 
+
 ![FEMA Applicant Count by Zip Code](Applications by Zip Code.png "Application Count by Zip Code")
 
 Heat Map by Median Income 
+
 ![Median Income by Zip Code according to the 2019 ACS](Income by ZipCode.png "Median Income Distribution by Zip Code")
 
 Heat Map by Population Density 
+
 ![Total Population Count by Zip Code according to 2019 ACS](Total Population by Zip Code.png "Populatin Count by Zip Code")
 
 After viewing the heat maps, it appears that the FEMA applicant map count and 
