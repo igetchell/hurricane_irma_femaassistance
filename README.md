@@ -137,15 +137,15 @@ income, and by population count. The maps are displayed below.
 
 Heat Map by Applicant Count (RED)
 
-![FEMA Applicant Count by Zip Code](Applications by Zip Code.png "Application Count by Zip Code")
+![FEMA Applicant Count by Zip Code](Applications_by_ZipCode.png "Application Count by Zip Code")
 
 Heat Map by Median Income (BLUE)
 
-![Median Income by Zip Code according to the 2019 ACS](Income by ZipCode.png "Median Income Distribution by Zip Code")
+![Median Income by Zip Code according to the 2019 ACS](Income_by_ZipCode.png "Median Income Distribution by Zip Code")
 
 Heat Map by Population Density (GREEN)
 
-![Total Population Count by Zip Code according to 2019 ACS](Total Population by Zip Code.png "Populatin Count by Zip Code")
+![Total Population Count by Zip Code according to 2019 ACS](Total_Population_by_ZipCode.png "Populatin Count by Zip Code")
 
 After viewing the heat maps, it appears that the FEMA applicant map count and 
 the median income map are inverses of eachother. This would support the 
