@@ -135,15 +135,15 @@ the county data and writes it out to a geopackage to be used in GIS.
 Finally, I generated three heat maps: by FEMA applicant volume, by median 
 income, and by population count. The maps are displayed below. 
 
-Heat Map by Applicant Count 
+Heat Map by Applicant Count (RED)
 
 ![FEMA Applicant Count by Zip Code](Applications by Zip Code.png "Application Count by Zip Code")
 
-Heat Map by Median Income 
+Heat Map by Median Income (BLUE)
 
 ![Median Income by Zip Code according to the 2019 ACS](Income by ZipCode.png "Median Income Distribution by Zip Code")
 
-Heat Map by Population Density 
+Heat Map by Population Density (GREEN)
 
 ![Total Population Count by Zip Code according to 2019 ACS](Total Population by Zip Code.png "Populatin Count by Zip Code")
 
